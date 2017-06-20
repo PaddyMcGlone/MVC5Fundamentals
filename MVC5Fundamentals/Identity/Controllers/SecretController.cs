@@ -2,7 +2,9 @@
 
 namespace Identity.Controllers
 {
-    [Authorize]
+    //[Authorize]
+    //[Authorize(Users = "pmcglone")]
+    [Authorize(Roles = "admin")]
     public class SecretController : Controller
     {                
         public ActionResult Secret()
