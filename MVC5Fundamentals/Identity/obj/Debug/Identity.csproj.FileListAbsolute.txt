@@ -94,3 +94,14 @@ C:\Code\Pluralsight Exercises\MVC5Fundamentals\MVC5Fundamentals\Identity\bin\Mic
 C:\Code\Pluralsight Exercises\MVC5Fundamentals\MVC5Fundamentals\Identity\obj\Debug\Identity.csprojResolveAssemblyReference.cache
 C:\Code\Pluralsight Exercises\MVC5Fundamentals\MVC5Fundamentals\Identity\obj\Debug\Identity.dll
 C:\Code\Pluralsight Exercises\MVC5Fundamentals\MVC5Fundamentals\Identity\obj\Debug\Identity.pdb
+C:\Code\Pluralsight Exercises\MVC5Fundamentals\MVC5Fundamentals\Identity\bin\PatientData.dll
+C:\Code\Pluralsight Exercises\MVC5Fundamentals\MVC5Fundamentals\Identity\bin\System.Web.Http.dll
+C:\Code\Pluralsight Exercises\MVC5Fundamentals\MVC5Fundamentals\Identity\bin\System.Web.Http.Owin.dll
+C:\Code\Pluralsight Exercises\MVC5Fundamentals\MVC5Fundamentals\Identity\bin\System.Net.Http.Formatting.dll
+C:\Code\Pluralsight Exercises\MVC5Fundamentals\MVC5Fundamentals\Identity\bin\System.Web.Http.WebHost.dll
+C:\Code\Pluralsight Exercises\MVC5Fundamentals\MVC5Fundamentals\Identity\bin\PatientData.pdb
+C:\Code\Pluralsight Exercises\MVC5Fundamentals\MVC5Fundamentals\Identity\bin\PatientData.dll.config
+C:\Code\Pluralsight Exercises\MVC5Fundamentals\MVC5Fundamentals\Identity\bin\System.Web.Http.xml
+C:\Code\Pluralsight Exercises\MVC5Fundamentals\MVC5Fundamentals\Identity\bin\System.Web.Http.Owin.xml
+C:\Code\Pluralsight Exercises\MVC5Fundamentals\MVC5Fundamentals\Identity\bin\System.Net.Http.Formatting.xml
+C:\Code\Pluralsight Exercises\MVC5Fundamentals\MVC5Fundamentals\Identity\bin\System.Web.Http.WebHost.xml

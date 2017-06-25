@@ -102,4 +102,4 @@ C:\Code\Pluralsight Exercises\MVC5Fundamentals\MVC5Fundamentals\PatientData\bin\
 C:\Code\Pluralsight Exercises\MVC5Fundamentals\MVC5Fundamentals\PatientData\obj\Debug\PatientData.csprojResolveAssemblyReference.cache
 C:\Code\Pluralsight Exercises\MVC5Fundamentals\MVC5Fundamentals\PatientData\obj\Debug\PatientData.dll
 C:\Code\Pluralsight Exercises\MVC5Fundamentals\MVC5Fundamentals\PatientData\obj\Debug\PatientData.pdb
-C:\Code\Pluralsight Exercises\MVC5Fundamentals\MVC5Fundamentals\PatientData\bin\PatientData.xml
+C:\Code\Pluralsight Exercises\MVC5Fundamentals\MVC5Fundamentals\PatientData\bin\System.Runtime.InteropServices.RuntimeInformation.dll
