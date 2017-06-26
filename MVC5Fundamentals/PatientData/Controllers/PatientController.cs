@@ -22,12 +22,25 @@ namespace PatientData.Controllers
             return allPatients;
         }
 
-        public HttpResponseMessage Get(int id)
+        // The HttpResponseMessage version
+        //public HttpResponseMessage Get(int id)
+        //{
+        //    var patient = _context.Patients.SingleOrDefault(p => p.Id == id);
+        //    return patient == null
+        //        ? Request.CreateErrorResponse(HttpStatusCode.NotFound, "Patient Not Found")
+        //        : Request.CreateResponse(patient);
+        //}
+
+        // The IHttpActionResult version
+        public IHttpActionResult Get(int id)
         {
             var patient = _context.Patients.SingleOrDefault(p => p.Id == id);
-            return patient == null
-                ? Request.CreateErrorResponse(HttpStatusCode.NotFound, "Patient Not Found")
-                : Request.CreateResponse(patient);
+
+            if (patient == null)
+            {
+                return NotFound();
+            }
+            return Ok(patient);
         }
 
         [Route("api/patient/{id}/medications")]
