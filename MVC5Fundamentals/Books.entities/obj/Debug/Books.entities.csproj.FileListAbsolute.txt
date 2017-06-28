@@ -1,0 +1,5 @@
+C:\Code\Pluralsight Exercises\MVC5Fundamentals\MVC5Fundamentals\Books.entities\bin\Debug\Books.entities.dll
+C:\Code\Pluralsight Exercises\MVC5Fundamentals\MVC5Fundamentals\Books.entities\bin\Debug\Books.entities.pdb
+C:\Code\Pluralsight Exercises\MVC5Fundamentals\MVC5Fundamentals\Books.entities\obj\Debug\Books.entities.csprojResolveAssemblyReference.cache
+C:\Code\Pluralsight Exercises\MVC5Fundamentals\MVC5Fundamentals\Books.entities\obj\Debug\Books.entities.dll
+C:\Code\Pluralsight Exercises\MVC5Fundamentals\MVC5Fundamentals\Books.entities\obj\Debug\Books.entities.pdb
