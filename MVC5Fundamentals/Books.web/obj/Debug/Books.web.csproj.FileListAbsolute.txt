@@ -98,3 +98,4 @@ C:\Code\Pluralsight Exercises\MVC5Fundamentals\MVC5Fundamentals\Books.web\obj\De
 C:\Code\Pluralsight Exercises\MVC5Fundamentals\MVC5Fundamentals\Books.web\obj\Debug\Books.web.pdb
 C:\Code\Pluralsight Exercises\MVC5Fundamentals\MVC5Fundamentals\Books.web\obj\Debug\Books.web.DataContext.BookMigrations.InitalMigration.resources
 C:\Code\Pluralsight Exercises\MVC5Fundamentals\MVC5Fundamentals\Books.web\obj\Debug\Books.web.csproj.GenerateResource.Cache
+C:\Code\Pluralsight Exercises\MVC5Fundamentals\MVC5Fundamentals\Books.web\obj\Debug\Books.web.DataContext.IdentityMigrations.InitialMigration.resources
