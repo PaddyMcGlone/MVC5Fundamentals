@@ -103,3 +103,7 @@ C:\Code\Pluralsight Exercises\MVC5Fundamentals\MVC5Fundamentals\PatientData\obj\
 C:\Code\Pluralsight Exercises\MVC5Fundamentals\MVC5Fundamentals\PatientData\obj\Debug\PatientData.dll
 C:\Code\Pluralsight Exercises\MVC5Fundamentals\MVC5Fundamentals\PatientData\obj\Debug\PatientData.pdb
 C:\Code\Pluralsight Exercises\MVC5Fundamentals\MVC5Fundamentals\PatientData\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Code\Pluralsight Exercises\MVC5Fundamentals\MVC5Fundamentals\PatientData\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Code\Pluralsight Exercises\MVC5Fundamentals\MVC5Fundamentals\PatientData\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Code\Pluralsight Exercises\MVC5Fundamentals\MVC5Fundamentals\PatientData\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Code\Pluralsight Exercises\MVC5Fundamentals\MVC5Fundamentals\PatientData\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
