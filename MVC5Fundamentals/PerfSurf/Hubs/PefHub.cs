@@ -1,16 +1,12 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
-using Microsoft.AspNet.SignalR;
+﻿using Microsoft.AspNet.SignalR;
 
 namespace PerfSurf.Hubs
 {
     public class PefHub : Hub
     {
-        public void Hello()
-        {
-            Clients.All.hello();
+        public void SendMessage(string message)
+        { 
+            Clients.All.NewMessage(Context.User.Identity.Name + " says: " + message);
         }
     }
 }
