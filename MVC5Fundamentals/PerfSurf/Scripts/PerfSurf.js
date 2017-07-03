@@ -1,6 +1,6 @@
 ﻿(function() {
 
-    var perfHub = $.connection.PerfHub;
+    var perfHub = $.connection.perfHub;
     $.connection.logging = true;
     $.connection.hub.start();
 
@@ -15,7 +15,7 @@
         var self = this; // preserving the self object - good js coding
 
         self.message = ko.observable(""), //Message user sends to server
-        self.messages = ko.observableArray() //Messages arriving from the server
+        self.messages = ko.observableArray(); //Messages arriving from the server
     };
 
     // behaviour
